@@ -6,6 +6,7 @@ Added another line
 
 ## Purpose
 Adding a line for rebasing example.
+More checnges from myfeature branch too.
 ## How to Contribute
 Please fork thi Repo
 ###CopyRight
