@@ -7,3 +7,6 @@ Added another line
 ## Purpose
 
 ## How to Contribute
+
+###CopyRight
+copy right
