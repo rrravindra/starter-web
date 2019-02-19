@@ -10,4 +10,4 @@ More checnges from myfeature branch too.
 ## How to Contribute
 Please fork thi Repo
 ###CopyRight
-copy right
+All Rights Reserved. 2019
